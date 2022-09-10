@@ -1,0 +1,350 @@
+[
+  {
+      "restaurant":"Chipotle",
+      "id" : 1,
+      "img": "https://logolook.net/wp-content/uploads/2022/03/Chipotle-Logo.png",
+      "foodItems":[
+          {"foodName":"Chicken Burrito", "foodType":"Burrito", "protein":"chicken", "price":10.5, "img" : "https://static.toiimg.com/thumb/62082983.cms?width=1200&height=900"},
+          {"foodName":"Steak Burrito", "foodType":"Burrito", "protein":"steak", "price":13.25, "img" : "https://www.seriouseats.com/thmb/o8aZdrUSLBbGI6H3MUejHgb0-3Y=/1125x1125/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__10__20201002-mission-style-burrito-jillian-atkinson-2-6841455590ed4c3981529b232166643a.jpg"},
+          {"foodName":"Carnitas Burrito", "foodType":"Burrito", "protein":"carnitas", "price":9.25 , "img" : "https://www.chiselandfork.com/wp-content/uploads/2022/04/carnitas-burrito-1.jpg"},
+          {"foodName":"Barbacoa Burrito", "foodType":"Burrito", "protein":"barbacoa", "price":11.50 , "img" : "https://www.closetcooking.com/wp-content/uploads/2015/05/BarbacoaBurritos8008512.jpg"},
+          {"foodName":"Chorizo Burrito", "foodType":"Burrito", "protein":"chorizo", "price":8.30 , "img" : "https://www.asaucykitchen.com/wp-content/uploads/2021/07/turkey-chorizo-burrito.jpg"},
+          {"foodName":"Sofritas Burrito", "foodType":"Burrito", "protein":"sofritas", "price":9.45 , "img" : "https://www.gannett-cdn.com/-mm-/c256be877cb5feb7b087db5c94efb4583aa6062e/c=5-0-1277-719/local/-/media/Phoenix/Phoenix/2014/04/15//1397603744000-chipotle-tofu-burrito.jpg?width=660&height=374&fit=crop&format=pjpg&auto=webp"},
+          {"foodName":"Chicken Burrito Bowl", "foodType":"Burrito Bowl", "price":630 , "img" : "https://healthyfitnessmeals.com/wp-content/uploads/2019/06/Grilled-chicken-burrito-bowls-9.jpg"},
+          {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+    {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+    {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+    
+          
+          ]
+  },
+  {
+      "restaurant":"Panera",
+      "id" : 2,
+      "img": "https://yt3.ggpht.com/rBB_9bFmVA6iKHPpqCIYzUyBiCvt2FDSly_lKyC41CpFPJLaZ0-4TyecVAVRDuqrr04LcvoVYA=s900-c-k-c0x00ffffff-no-rj",
+      "foodItems":[
+          {"foodName":"BBQ Chicken Flatbread", "foodType":"Sandwich", "price":4.50, "carbs":41, "img": "https://www.lecremedelacrumb.com/wp-content/uploads/2014/04/bbq-chicken-flat-bread-pizza-6.jpg"},
+          {"foodName":"Chicken Flatbread", "price":8.90, "correctedTerm":"BBQ Chicken Flatbread", "carbs":41, "img": "https://img.taste.com.au/5pA542t3/taste/2020/01/feb20_tandoori-chicken-with-flatbread-taste-157329-1.jpg" },
+          {"foodName":"Tomato Mozzarella Flatbread", "price":7.50, "carbs":35 , "img": "https://cdn.momsdish.com/wp-content/uploads/2021/08/5-Minute-Margherita-Flatbread-Pizza-08.jpg"},
+    {"foodName":"Roasted Turkey Cranberry Flatbread", "price":8.50, "carbs":36 , "img": "https://4.bp.blogspot.com/-5rK8gUiYX6U/VDZ-Bs_Ch9I/AAAAAAAAgmk/ansnlK7Y6lE/w1200-h630-p-k-no-nu/panera-turkey-cranberry-flatbread-sandwich.jpg"},
+    {"foodName":"Turkey Cranberry Flatbread", "price":9.50, "carbs":36 , "img": "https://www.oceanspray.com/-/media/OS/US/DotCom/recipes/Appetizers/Turkey-Cranberry-Flatbread-Appetizer_DETAIL_3307.ashx"},
+    {"foodName":"Half Size Italian on Hoagie Roll", "price":11.25, "carbs":38 , "img": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/03/05/Food/Images/Food0461425573672.jpg?t=20170517"},
+    {"foodName":"Half Italian", "price":14.50, "correctedTerm":"Half Size Italian on Hoagie Roll", "carbs":38 , "img": "https://blog.studentsville.it/wp-content/uploads/2020/11/Italianfoodnames.jpg"},
+    {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+    {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+    {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+          
+          ]
+  },
+  {
+      "restaurant":"Burger King",
+      "id" : 3,
+      "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrUUCPmsCoxjLG3jI08p8ezS3DfDRsPO76wXT7rdZTwX4zcI7eZm7KcO1cNOoMGQzwfM&usqp=CAU",
+      "foodItems":[
+      
+          {"foodName":"Whooper", "price":8.90, "correctedTerm":"Whopper", "img" : "https://thefoodxp.com/wp-content/uploads/2022/01/Burger-king-Whooper-4.webp"},
+          {"foodName":"Big King", "price":11.90 , "img" : "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Big_King_1080x1080px_06202110-1.png"},
+          {"foodName":"Junior Whopper", "price":12.90, "correctedTerm":"Whopper Jr" , "img" : "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Whopper_Jr_1080x1080px_0820218-768x768.png"},
+          {"foodName":"Whopper Deluxe", "price":14.90, "correctedTerm":"Whopper Jr" , "img" : "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Whopper_Jr_1080x1080px_0820218-768x768.png"},
+          {"foodName":"Jr Whopper", "price":9.90, "correctedTerm":"Whopper Jr" , "img" : "https://www.chewboom.com/wp-content/uploads/2016/12/Burger-King-Offers-New-3.99-Whopper-Jr.-Meal-Deal-678x381.jpg"},
+          {"foodName":"Whopper Jr", "foodType":"Burger", "price":14.90 , "img" : "https://www.chewboom.com/wp-content/uploads/2016/12/Burger-King-Offers-New-3.99-Whopper-Jr.-Meal-Deal-678x381.jpg"},
+          {"foodName":"Grilled Chicken Sandwich","price":12.90 , "img" : "https://assets.bonappetit.com/photos/5b69f160dbdc967b93bc1c42/5:4/w_3770,h_3016,c_limit/ba-grilled-chicken-sando.jpg"},
+          {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+    {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+    {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+          
+          ]
+  },
+  {
+      "restaurant":"Subway",
+      "id" : 4,
+      "img" : "https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2016/08/09165704/new-subway%C2%AE-retaurants-logo-5-HR.jpg",
+      "foodItems":[
+          {"foodName":"Black Forest Ham", "price":7.50, "correctedTerm":"6 inch Black Forest Ham" , "img" : "https://cdn11.bigcommerce.com/s-u432vtv/images/stencil/1280x1280/products/294/5592/Black_Forest_Ham_CP_Sliced-4__57923.1561772570.JPG?c=2"},
+          {"foodName":"Black Forrest Chicken", "price":12.50, "correctedTerm":"6 inch Black Forest Ham", "img" : "https://i.ytimg.com/vi/7BT1liAX-Hw/maxresdefault.jpg" },
+    {"foodName":"Six inch Black Forest Ham", "price":9.50 , "img" : "https://www.adlerschwarzwald.de/wp-content/uploads/2014/04/7577-Schw-Schiken.jpg" },
+          {"foodName":"6 inch Black Forest Ham", "foodType":"Six inch", "price":8.50 , "img" : "https://i.pinimg.com/736x/bc/28/7b/bc287b0031ee6103da3935554592ed17.jpg" },
+          {"foodName":"12 inch Black Forest Ham", "price":11.50 , "img" : "https://newleafdeli.net/wp-content/uploads/12-Black-Forest-Ham-and-Swiss.png" },
+          {"foodName":"Footlong Black Forest Ham", "foodType":"Footlong", "price":6.50 , "img" : "https://fastfoodnutrition.org/item-photos/full/244_s.jpg" },
+          {"foodName":"Oven Roasted Chicken", "price":15.50, "img" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F01%2F19%2F83557-juicy-roast-chicken-mfs495-1.jpg" },
+          {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+    {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+    {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+          
+          ]
+  },
+  {
+      "restaurant":"Chick-fil-A",
+      "id" : 5,
+      "img": "https://1000logos.net/wp-content/uploads/2018/03/Chick-fil-A-Logo-1998.png",
+      "foodItems":[
+          {"foodName":"Chicken Sandwich", "foodType":"Chicken", "price":6.90, "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-05-Fried-Chicken-Sandwich%2Fchicken-sandwich-4"},
+          
+          
+          {"foodName":"Spicy Chicken Deluxe", "foodType":"Chicken", "price":11.90 , "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_73,ar_16:9,w_1024/v1/img/recipes/53/73/31/hxnrMh6QoitQdUS18UVP_chick_fil_a_spicy_deluxe_chicken_sandwich_02.jpg"},
+          
+          
+          {"foodName":"3 count Chicken Strips", "price":12.90 , "img": "https://www.cfacdn.com/img/order/menu/Online/Entrees/strips_3ct_PDP.png"},
+          {"foodName":"Chick-n-Strips 3 count", "price":14.90 , "img": "https://awrestaurants.com/sites/default/files/hbct.png"},
+          
+          {"foodName":"Four piece Chicken Strips", "price":10.90 , "img": "https://www.chewboom.com/wp-content/uploads/2020/02/Dairy-Queen-Welcomes-Back-4.99-4-Piece-Chicken-Strip-Basket-And-Mint-Shake.jpg"},
+          {"foodName":"4 piece Chicken Strips", "foodType":"Chicken Strips", "price":11.25 , "img": "https://canadify.com/wp-content/uploads/2017/02/Dairy-Queen-Canada-Offers-4-Piece-Chicken-Strip-Basket-For-5.99-678x381.jpg"},
+          {"foodName":"Chick-n-Strips 4 piece", "price":13.90 , "img": "https://assets3.thrillist.com/v1/image/2779931/1200x600/scale;"},
+          {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+    {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+    {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+          
+          
+      ]
+  },
+  {
+      "restaurant":"McDonalds",
+      "id" : 6,
+      "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/McDonald%27s_logo.svg/2560px-McDonald%27s_logo.svg.png",
+      "foodItems":[
+        {"foodName":"Chicken Burrito", "foodType":"Burrito", "protein":"chicken", "price":10.5, "img" : "https://static.toiimg.com/thumb/62082983.cms?width=1200&height=900"},
+        {"foodName":"Steak Burrito", "foodType":"Burrito", "protein":"steak", "price":13.25, "img" : "https://www.seriouseats.com/thmb/o8aZdrUSLBbGI6H3MUejHgb0-3Y=/1125x1125/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__10__20201002-mission-style-burrito-jillian-atkinson-2-6841455590ed4c3981529b232166643a.jpg"},
+        {"foodName":"Carnitas Burrito", "foodType":"Burrito", "protein":"carnitas", "price":9.25 , "img" : "https://www.chiselandfork.com/wp-content/uploads/2022/04/carnitas-burrito-1.jpg"},
+        {"foodName":"Barbacoa Burrito", "foodType":"Burrito", "protein":"barbacoa", "price":11.50 , "img" : "https://www.closetcooking.com/wp-content/uploads/2015/05/BarbacoaBurritos8008512.jpg"},
+        {"foodName":"Chorizo Burrito", "foodType":"Burrito", "protein":"chorizo", "price":8.30 , "img" : "https://www.asaucykitchen.com/wp-content/uploads/2021/07/turkey-chorizo-burrito.jpg"},
+        {"foodName":"Sofritas Burrito", "foodType":"Burrito", "protein":"sofritas", "price":9.45 , "img" : "https://www.gannett-cdn.com/-mm-/c256be877cb5feb7b087db5c94efb4583aa6062e/c=5-0-1277-719/local/-/media/Phoenix/Phoenix/2014/04/15//1397603744000-chipotle-tofu-burrito.jpg?width=660&height=374&fit=crop&format=pjpg&auto=webp"},
+        {"foodName":"Chicken Burrito Bowl", "foodType":"Burrito Bowl", "price":630 , "img" : "https://healthyfitnessmeals.com/wp-content/uploads/2019/06/Grilled-chicken-burrito-bowls-9.jpg"},
+        {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+  {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+  {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+          
+      ]
+  },
+  {
+      "restaurant":"Wendys",
+      "id" : 7,
+      "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Wendy%27s_full_logo_2012.svg/640px-Wendy%27s_full_logo_2012.svg.png",
+      "foodItems":[
+        {"foodName":"BBQ Chicken Flatbread", "foodType":"Sandwich", "price":4.50, "carbs":41, "img": "https://www.lecremedelacrumb.com/wp-content/uploads/2014/04/bbq-chicken-flat-bread-pizza-6.jpg"},
+        {"foodName":"Chicken Flatbread", "price":8.90, "correctedTerm":"BBQ Chicken Flatbread", "carbs":41, "img": "https://img.taste.com.au/5pA542t3/taste/2020/01/feb20_tandoori-chicken-with-flatbread-taste-157329-1.jpg" },
+        {"foodName":"Tomato Mozzarella Flatbread", "price":7.50, "carbs":35 , "img": "https://cdn.momsdish.com/wp-content/uploads/2021/08/5-Minute-Margherita-Flatbread-Pizza-08.jpg"},
+  {"foodName":"Roasted Turkey Cranberry Flatbread", "price":8.50, "carbs":36 , "img": "https://4.bp.blogspot.com/-5rK8gUiYX6U/VDZ-Bs_Ch9I/AAAAAAAAgmk/ansnlK7Y6lE/w1200-h630-p-k-no-nu/panera-turkey-cranberry-flatbread-sandwich.jpg"},
+  {"foodName":"Turkey Cranberry Flatbread", "price":9.50, "carbs":36 , "img": "https://www.oceanspray.com/-/media/OS/US/DotCom/recipes/Appetizers/Turkey-Cranberry-Flatbread-Appetizer_DETAIL_3307.ashx"},
+  {"foodName":"Half Size Italian on Hoagie Roll", "price":11.25, "carbs":38 , "img": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/03/05/Food/Images/Food0461425573672.jpg?t=20170517"},
+  {"foodName":"Half Italian", "price":14.50, "correctedTerm":"Half Size Italian on Hoagie Roll", "carbs":38 , "img": "https://blog.studentsville.it/wp-content/uploads/2020/11/Italianfoodnames.jpg"},
+  {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+  {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+  {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+          
+      ]
+  },
+  {
+      "restaurant":"Taco Bell",
+      "id" : 8,
+      "img" : "https://upload.wikimedia.org/wikipedia/fi/3/3f/Taco_bell_logo.jpg",
+      "foodItems":[
+        {"foodName":"Whooper", "price":8.90, "correctedTerm":"Whopper", "img" : "https://thefoodxp.com/wp-content/uploads/2022/01/Burger-king-Whooper-4.webp"},
+        {"foodName":"Big King", "price":11.90 , "img" : "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Big_King_1080x1080px_06202110-1.png"},
+        {"foodName":"Junior Whopper", "price":12.90, "correctedTerm":"Whopper Jr" , "img" : "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Whopper_Jr_1080x1080px_0820218-768x768.png"},
+        {"foodName":"Whopper Deluxe", "price":14.90, "correctedTerm":"Whopper Jr" , "img" : "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Whopper_Jr_1080x1080px_0820218-768x768.png"},
+        {"foodName":"Jr Whopper", "price":9.90, "correctedTerm":"Whopper Jr" , "img" : "https://www.chewboom.com/wp-content/uploads/2016/12/Burger-King-Offers-New-3.99-Whopper-Jr.-Meal-Deal-678x381.jpg"},
+        {"foodName":"Whopper Jr", "foodType":"Burger", "price":14.90 , "img" : "https://www.chewboom.com/wp-content/uploads/2016/12/Burger-King-Offers-New-3.99-Whopper-Jr.-Meal-Deal-678x381.jpg"},
+        {"foodName":"Grilled Chicken Sandwich","price":12.90 , "img" : "https://assets.bonappetit.com/photos/5b69f160dbdc967b93bc1c42/5:4/w_3770,h_3016,c_limit/ba-grilled-chicken-sando.jpg"},
+        {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+  {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+  {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+      ]
+  },
+  {
+      "restaurant":"Arbys",
+      "id" : 9,
+      "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Arby%27s_logo.svg/2394px-Arby%27s_logo.svg.png",
+      "foodItems":[
+        {"foodName":"Black Forest Ham", "price":7.50, "correctedTerm":"6 inch Black Forest Ham" , "img" : "https://cdn11.bigcommerce.com/s-u432vtv/images/stencil/1280x1280/products/294/5592/Black_Forest_Ham_CP_Sliced-4__57923.1561772570.JPG?c=2"},
+        {"foodName":"Black Forrest Chicken", "price":12.50, "correctedTerm":"6 inch Black Forest Ham", "img" : "https://i.ytimg.com/vi/7BT1liAX-Hw/maxresdefault.jpg" },
+  {"foodName":"Six inch Black Forest Ham", "price":9.50 , "img" : "https://www.adlerschwarzwald.de/wp-content/uploads/2014/04/7577-Schw-Schiken.jpg" },
+        {"foodName":"6 inch Black Forest Ham", "foodType":"Six inch", "price":8.50 , "img" : "https://i.pinimg.com/736x/bc/28/7b/bc287b0031ee6103da3935554592ed17.jpg" },
+        {"foodName":"12 inch Black Forest Ham", "price":11.50 , "img" : "https://newleafdeli.net/wp-content/uploads/12-Black-Forest-Ham-and-Swiss.png" },
+        {"foodName":"Footlong Black Forest Ham", "foodType":"Footlong", "price":6.50 , "img" : "https://fastfoodnutrition.org/item-photos/full/244_s.jpg" },
+        {"foodName":"Oven Roasted Chicken", "price":15.50, "img" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F01%2F19%2F83557-juicy-roast-chicken-mfs495-1.jpg" },
+        {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+  {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+  {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+          
+]
+  },
+  {
+      "restaurant":"Hardees",
+      "id" : 10,
+      "img" : "https://w7.pngwing.com/pngs/836/810/png-transparent-hardee-s-breakfast-fast-food-restaurant-eating-breakfast.png",
+      "foodItems":[
+        {"foodName":"Chicken Sandwich", "foodType":"Chicken", "price":6.90, "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-05-Fried-Chicken-Sandwich%2Fchicken-sandwich-4"},
+          
+          
+        {"foodName":"Spicy Chicken Deluxe", "foodType":"Chicken", "price":11.90 , "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_73,ar_16:9,w_1024/v1/img/recipes/53/73/31/hxnrMh6QoitQdUS18UVP_chick_fil_a_spicy_deluxe_chicken_sandwich_02.jpg"},
+        
+        
+        {"foodName":"3 count Chicken Strips", "price":12.90 , "img": "https://www.cfacdn.com/img/order/menu/Online/Entrees/strips_3ct_PDP.png"},
+        {"foodName":"Chick-n-Strips 3 count", "price":14.90 , "img": "https://awrestaurants.com/sites/default/files/hbct.png"},
+        
+        {"foodName":"Four piece Chicken Strips", "price":10.90 , "img": "https://www.chewboom.com/wp-content/uploads/2020/02/Dairy-Queen-Welcomes-Back-4.99-4-Piece-Chicken-Strip-Basket-And-Mint-Shake.jpg"},
+        {"foodName":"4 piece Chicken Strips", "foodType":"Chicken Strips", "price":11.25 , "img": "https://canadify.com/wp-content/uploads/2017/02/Dairy-Queen-Canada-Offers-4-Piece-Chicken-Strip-Basket-For-5.99-678x381.jpg"},
+        {"foodName":"Chick-n-Strips 4 piece", "price":13.90 , "img": "https://assets3.thrillist.com/v1/image/2779931/1200x600/scale;"},
+        {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+  {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+  {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+    
+]
+  },
+  {
+"restaurant":"Five Guys",
+  "id" : 11,
+  "img" : "https://www.tellermate.com/us/wp-content/uploads/sites/8/2017/03/Five-Guys-Logo-2.png",
+      "foodItems":[
+        {"foodName":"Chicken Burrito", "foodType":"Burrito", "protein":"chicken", "price":10.5, "img" : "https://static.toiimg.com/thumb/62082983.cms?width=1200&height=900"},
+        {"foodName":"Steak Burrito", "foodType":"Burrito", "protein":"steak", "price":13.25, "img" : "https://www.seriouseats.com/thmb/o8aZdrUSLBbGI6H3MUejHgb0-3Y=/1125x1125/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__10__20201002-mission-style-burrito-jillian-atkinson-2-6841455590ed4c3981529b232166643a.jpg"},
+        {"foodName":"Carnitas Burrito", "foodType":"Burrito", "protein":"carnitas", "price":9.25 , "img" : "https://www.chiselandfork.com/wp-content/uploads/2022/04/carnitas-burrito-1.jpg"},
+        {"foodName":"Barbacoa Burrito", "foodType":"Burrito", "protein":"barbacoa", "price":11.50 , "img" : "https://www.closetcooking.com/wp-content/uploads/2015/05/BarbacoaBurritos8008512.jpg"},
+        {"foodName":"Chorizo Burrito", "foodType":"Burrito", "protein":"chorizo", "price":8.30 , "img" : "https://www.asaucykitchen.com/wp-content/uploads/2021/07/turkey-chorizo-burrito.jpg"},
+        {"foodName":"Sofritas Burrito", "foodType":"Burrito", "protein":"sofritas", "price":9.45 , "img" : "https://www.gannett-cdn.com/-mm-/c256be877cb5feb7b087db5c94efb4583aa6062e/c=5-0-1277-719/local/-/media/Phoenix/Phoenix/2014/04/15//1397603744000-chipotle-tofu-burrito.jpg?width=660&height=374&fit=crop&format=pjpg&auto=webp"},
+        {"foodName":"Chicken Burrito Bowl", "foodType":"Burrito Bowl", "price":630 , "img" : "https://healthyfitnessmeals.com/wp-content/uploads/2019/06/Grilled-chicken-burrito-bowls-9.jpg"},
+        {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+  {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+  {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+          
+]
+  },
+  {
+      "restaurant":"In-N-Out",
+      "id" : 12,
+      "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/InNOut.svg/1200px-InNOut.svg.png",
+      "foodItems":[
+        {"foodName":"BBQ Chicken Flatbread", "foodType":"Sandwich", "price":4.50, "carbs":41, "img": "https://www.lecremedelacrumb.com/wp-content/uploads/2014/04/bbq-chicken-flat-bread-pizza-6.jpg"},
+        {"foodName":"Chicken Flatbread", "price":8.90, "correctedTerm":"BBQ Chicken Flatbread", "carbs":41, "img": "https://img.taste.com.au/5pA542t3/taste/2020/01/feb20_tandoori-chicken-with-flatbread-taste-157329-1.jpg" },
+        {"foodName":"Tomato Mozzarella Flatbread", "price":7.50, "carbs":35 , "img": "https://cdn.momsdish.com/wp-content/uploads/2021/08/5-Minute-Margherita-Flatbread-Pizza-08.jpg"},
+  {"foodName":"Roasted Turkey Cranberry Flatbread", "price":8.50, "carbs":36 , "img": "https://4.bp.blogspot.com/-5rK8gUiYX6U/VDZ-Bs_Ch9I/AAAAAAAAgmk/ansnlK7Y6lE/w1200-h630-p-k-no-nu/panera-turkey-cranberry-flatbread-sandwich.jpg"},
+  {"foodName":"Turkey Cranberry Flatbread", "price":9.50, "carbs":36 , "img": "https://www.oceanspray.com/-/media/OS/US/DotCom/recipes/Appetizers/Turkey-Cranberry-Flatbread-Appetizer_DETAIL_3307.ashx"},
+  {"foodName":"Half Size Italian on Hoagie Roll", "price":11.25, "carbs":38 , "img": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/03/05/Food/Images/Food0461425573672.jpg?t=20170517"},
+  {"foodName":"Half Italian", "price":14.50, "correctedTerm":"Half Size Italian on Hoagie Roll", "carbs":38 , "img": "https://blog.studentsville.it/wp-content/uploads/2020/11/Italianfoodnames.jpg"},
+  {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+  {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+  {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+    
+]
+  },
+  {
+      "restaurant":"Sonic",
+      "id" : 13,
+      "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SONIC_New_Logo_2020.svg/1200px-SONIC_New_Logo_2020.svg.png",
+      "foodItems":[
+         {"foodName":"Whooper", "price":8.90, "correctedTerm":"Whopper", "img" : "https://thefoodxp.com/wp-content/uploads/2022/01/Burger-king-Whooper-4.webp"},
+          {"foodName":"Big King", "price":11.90 , "img" : "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Big_King_1080x1080px_06202110-1.png"},
+          {"foodName":"Junior Whopper", "price":12.90, "correctedTerm":"Whopper Jr" , "img" : "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Whopper_Jr_1080x1080px_0820218-768x768.png"},
+          {"foodName":"Whopper Deluxe", "price":14.90, "correctedTerm":"Whopper Jr" , "img" : "https://burgerking.fi/wp-content/uploads/BK_Menukuvat_nettisivuille_Whopper_Jr_1080x1080px_0820218-768x768.png"},
+          {"foodName":"Jr Whopper", "price":9.90, "correctedTerm":"Whopper Jr" , "img" : "https://www.chewboom.com/wp-content/uploads/2016/12/Burger-King-Offers-New-3.99-Whopper-Jr.-Meal-Deal-678x381.jpg"},
+          {"foodName":"Whopper Jr", "foodType":"Burger", "price":14.90 , "img" : "https://www.chewboom.com/wp-content/uploads/2016/12/Burger-King-Offers-New-3.99-Whopper-Jr.-Meal-Deal-678x381.jpg"},
+          {"foodName":"Grilled Chicken Sandwich","price":12.90 , "img" : "https://assets.bonappetit.com/photos/5b69f160dbdc967b93bc1c42/5:4/w_3770,h_3016,c_limit/ba-grilled-chicken-sando.jpg"},
+          {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+    {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+    {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+    {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+]
+  },
+  {
+      "restaurant":"Panda Express",
+      "id" : 14,
+      "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Panda_Express_logo.svg/1200px-Panda_Express_logo.svg.png",
+      "foodItems":[
+        {"foodName":"Black Forest Ham", "price":7.50, "correctedTerm":"6 inch Black Forest Ham" , "img" : "https://cdn11.bigcommerce.com/s-u432vtv/images/stencil/1280x1280/products/294/5592/Black_Forest_Ham_CP_Sliced-4__57923.1561772570.JPG?c=2"},
+        {"foodName":"Black Forrest Chicken", "price":12.50, "correctedTerm":"6 inch Black Forest Ham", "img" : "https://i.ytimg.com/vi/7BT1liAX-Hw/maxresdefault.jpg" },
+  {"foodName":"Six inch Black Forest Ham", "price":9.50 , "img" : "https://www.adlerschwarzwald.de/wp-content/uploads/2014/04/7577-Schw-Schiken.jpg" },
+        {"foodName":"6 inch Black Forest Ham", "foodType":"Six inch", "price":8.50 , "img" : "https://i.pinimg.com/736x/bc/28/7b/bc287b0031ee6103da3935554592ed17.jpg" },
+        {"foodName":"12 inch Black Forest Ham", "price":11.50 , "img" : "https://newleafdeli.net/wp-content/uploads/12-Black-Forest-Ham-and-Swiss.png" },
+        {"foodName":"Footlong Black Forest Ham", "foodType":"Footlong", "price":6.50 , "img" : "https://fastfoodnutrition.org/item-photos/full/244_s.jpg" },
+        {"foodName":"Oven Roasted Chicken", "price":15.50, "img" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2022%2F01%2F19%2F83557-juicy-roast-chicken-mfs495-1.jpg" },
+        {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+  {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+  {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+          
+      ]
+  },
+  {
+      "restaurant":"Cookout",
+      "id" : 15,
+      "img" : "https://cookout.com/wp-content/uploads/2017/09/CookOut-Sign.png",
+      "foodItems":[
+        {"foodName":"Chicken Sandwich", "foodType":"Chicken", "price":6.90, "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipe%20Ramp%20Up%2F2022-05-Fried-Chicken-Sandwich%2Fchicken-sandwich-4"},
+          
+          
+        {"foodName":"Spicy Chicken Deluxe", "foodType":"Chicken", "price":11.90 , "img": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_73,ar_16:9,w_1024/v1/img/recipes/53/73/31/hxnrMh6QoitQdUS18UVP_chick_fil_a_spicy_deluxe_chicken_sandwich_02.jpg"},
+        
+        
+        {"foodName":"3 count Chicken Strips", "price":12.90 , "img": "https://www.cfacdn.com/img/order/menu/Online/Entrees/strips_3ct_PDP.png"},
+        {"foodName":"Chick-n-Strips 3 count", "price":14.90 , "img": "https://awrestaurants.com/sites/default/files/hbct.png"},
+        
+        {"foodName":"Four piece Chicken Strips", "price":10.90 , "img": "https://www.chewboom.com/wp-content/uploads/2020/02/Dairy-Queen-Welcomes-Back-4.99-4-Piece-Chicken-Strip-Basket-And-Mint-Shake.jpg"},
+        {"foodName":"4 piece Chicken Strips", "foodType":"Chicken Strips", "price":11.25 , "img": "https://canadify.com/wp-content/uploads/2017/02/Dairy-Queen-Canada-Offers-4-Piece-Chicken-Strip-Basket-For-5.99-678x381.jpg"},
+        {"foodName":"Chick-n-Strips 4 piece", "price":13.90 , "img": "https://assets3.thrillist.com/v1/image/2779931/1200x600/scale;"},
+        {"foodName": "Small French Fries" , "price": 4.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Medium French Fries" , "price": 5.90, "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "Big French Fries" , "price": 6.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "X-Large French Fries" , "price": 7.90 , "img" : "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800"},
+  {"foodName": "200ml Coca-Cola" , "price": 3.50 , "img" : "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8011001/8011001-f3337b-1650x1650.jpg"},
+  {"foodName": "500ml Coca-Cola" , "price": 4.50 , "img" : "https://cdn.shopify.com/s/files/1/0567/3808/7091/products/coca-cola-cold-drink-500x500_1200x1200.jpg?v=1639730319"},
+  {"foodName": "1lt Coca-Cola" , "price": 5.50 , "img" : "https://m.media-amazon.com/images/I/5156FefjlqL._SL1000_.jpg"}
+    
+    
+      ]
+  }
+
+]
